@@ -54,47 +54,12 @@ Tech Stack used in this project
 * [Airflow](https://airflow.apache.org/)
 * [MySQL](https://mysql.com)
 * [DBT](https://www.getdbt.com/)
-* [Redash](https://redash.io/)
+* [Superset](https://redash.io/)
 
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Prerequisites
 
-Make sure you have docker installed on local machine.
-* Docker
-* DockerCompose
-  
-### Installation
-
-   ```
-
-<!-- CONTACT -->
-## Contact
-
-Selam Ayehubirhan - kabodshekinah@gmail.com
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [10 Academy](https://www.10academy.org/)
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sel6/Datawarehouse.svg?style=for-the-badge
-[contributors-url]: https://github.com/sel6/Datawarehouse/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sel6/Datawarehouse.svg?style=for-the-badge
-[forks-url]: https://github.com/sel6/Datawarehouse/network/members
-[stars-shield]: https://img.shields.io/github/stars/sel6/Datawarehouse.svg?style=for-the-badge
-[stars-url]: https://github.com/sel6/Datawarehouse/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sel6/Datawarehouse.svg?style=for-the-badge
-[issues-url]: https://github.com/sel6/Datawarehouse/issues
-[license-shield]: https://img.shields.io/github/license/sel6/Datawarehouse.svg?style=for-the-badge
-[license-url]: https://github.com/sel6/Datawarehouse/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/selam-ayehubirhan-897a6321a
-[product-screenshot]: images/architecture.png

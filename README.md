@@ -15,9 +15,6 @@
   <p align="center">
     A fully dockerized ELT pipeline using PostgreSQL, Airflow, DBT, Redash and Superset.
     <br />
-    <a href="https://sensordataelt.herokuapp.com/index.html"><strong>Explore the docs »</strong><a>
-    <br />
-    <br />
     ·
     <a href="https://github.com/sel6/Datawarehouse_change/issues">Report Bug</a>
     ·
